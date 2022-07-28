@@ -24,7 +24,7 @@
         "img": "/assets/ships/caza_cabezas.jpg"
       }
     ],
-    "planets": [{
+    "planets": [{ 
         "id": 1,
         "name": "Coruscant",
         "suns": "Corcuscant Prime",
